@@ -4,6 +4,12 @@ railway
 
 station.csv
 ====
-台灣火車站資料
+台鐵火車站資料
+
+type: csv
+
+offices.csv
+====
+台鐵運務段資料
 
 type: csv
